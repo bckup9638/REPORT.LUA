@@ -24,4 +24,4 @@ To Do :
 --
 
 Credits:
-https://github.com/Dasrg/steam-reportbot (i did it for community lock)
+https://github.com/Dasrg/steam-reportbot (i did it for community lock, added discord bot and more)
