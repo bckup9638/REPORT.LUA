@@ -1,0 +1,7 @@
+{
+	"appid": "730",
+	"perChunk": 2,
+	"count": 1100,
+	"betweenChunks": 8000,
+	"limited": true
+}
